@@ -1,0 +1,4 @@
+D:/React Native/MyDairy/android/app/.cxx/Debug/564y4f3p/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
+D:/React Native/MyDairy/android/app/.cxx/Debug/564y4f3p/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+D:/React Native/MyDairy/android/app/.cxx/Debug/564y4f3p/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+D:/React Native/MyDairy/android/app/.cxx/Debug/564y4f3p/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir
