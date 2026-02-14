@@ -1,13 +1,29 @@
-// PrimaryButton component
+// src/components/common/PrimaryButton.js
 import React from 'react';
-import { TouchableOpacity, Text } from 'react-native';
+import { TouchableOpacity, Text, StyleSheet } from 'react-native';
 
-const PrimaryButton = ({ title, onPress }) => {
+const PrimaryButton = ({ title, onPress, style }) => {
   return (
-    <TouchableOpacity onPress={onPress}>
-      <Text>{title}</Text>
+    <TouchableOpacity style={[styles.button, style]} onPress={onPress}>
+      <Text style={styles.text}>{title}</Text>
     </TouchableOpacity>
   );
 };
+
+const styles = StyleSheet.create({
+  button: {
+    backgroundColor: '#ff6b00',
+    paddingVertical: 12,
+    paddingHorizontal: 20,
+    borderRadius: 8,
+    alignItems: 'center',
+    marginVertical: 5,
+  },
+  text: {
+    color: '#fff',
+    fontSize: 16,
+    fontWeight: 'bold',
+  },
+});
 
 export default PrimaryButton;

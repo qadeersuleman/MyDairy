@@ -1,6 +1,12 @@
 D:/React Native/MyDairy/android/app/.cxx/Debug/564y4f3p/x86/CMakeFiles/appmodules.dir
 D:/React Native/MyDairy/android/app/.cxx/Debug/564y4f3p/x86/CMakeFiles/edit_cache.dir
 D:/React Native/MyDairy/android/app/.cxx/Debug/564y4f3p/x86/CMakeFiles/rebuild_cache.dir
+D:/React Native/MyDairy/android/app/.cxx/Debug/564y4f3p/x86/rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir
+D:/React Native/MyDairy/android/app/.cxx/Debug/564y4f3p/x86/rnasyncstorage_autolinked_build/CMakeFiles/edit_cache.dir
+D:/React Native/MyDairy/android/app/.cxx/Debug/564y4f3p/x86/rnasyncstorage_autolinked_build/CMakeFiles/rebuild_cache.dir
+D:/React Native/MyDairy/android/app/.cxx/Debug/564y4f3p/x86/RNDateTimePickerCGen_autolinked_build/CMakeFiles/react_codegen_RNDateTimePickerCGen.dir
+D:/React Native/MyDairy/android/app/.cxx/Debug/564y4f3p/x86/RNDateTimePickerCGen_autolinked_build/CMakeFiles/edit_cache.dir
+D:/React Native/MyDairy/android/app/.cxx/Debug/564y4f3p/x86/RNDateTimePickerCGen_autolinked_build/CMakeFiles/rebuild_cache.dir
 D:/React Native/MyDairy/android/app/.cxx/Debug/564y4f3p/x86/lottiereactnative_autolinked_build/CMakeFiles/react_codegen_lottiereactnative.dir
 D:/React Native/MyDairy/android/app/.cxx/Debug/564y4f3p/x86/lottiereactnative_autolinked_build/CMakeFiles/edit_cache.dir
 D:/React Native/MyDairy/android/app/.cxx/Debug/564y4f3p/x86/lottiereactnative_autolinked_build/CMakeFiles/rebuild_cache.dir
@@ -13,6 +19,9 @@ D:/React Native/MyDairy/android/app/.cxx/Debug/564y4f3p/x86/rnreanimated_autolin
 D:/React Native/MyDairy/android/app/.cxx/Debug/564y4f3p/x86/safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir
 D:/React Native/MyDairy/android/app/.cxx/Debug/564y4f3p/x86/safeareacontext_autolinked_build/CMakeFiles/edit_cache.dir
 D:/React Native/MyDairy/android/app/.cxx/Debug/564y4f3p/x86/safeareacontext_autolinked_build/CMakeFiles/rebuild_cache.dir
+D:/React Native/MyDairy/android/app/.cxx/Debug/564y4f3p/x86/rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir
+D:/React Native/MyDairy/android/app/.cxx/Debug/564y4f3p/x86/rnscreens_autolinked_build/CMakeFiles/edit_cache.dir
+D:/React Native/MyDairy/android/app/.cxx/Debug/564y4f3p/x86/rnscreens_autolinked_build/CMakeFiles/rebuild_cache.dir
 D:/React Native/MyDairy/android/app/.cxx/Debug/564y4f3p/x86/RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir
 D:/React Native/MyDairy/android/app/.cxx/Debug/564y4f3p/x86/RNVectorIconsSpec_autolinked_build/CMakeFiles/edit_cache.dir
 D:/React Native/MyDairy/android/app/.cxx/Debug/564y4f3p/x86/RNVectorIconsSpec_autolinked_build/CMakeFiles/rebuild_cache.dir

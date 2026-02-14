@@ -54,7 +54,7 @@ const SplashScreen = ({ navigation }) => {
 
     // Navigate after 3 seconds
     setTimeout(() => {
-      // navigation.replace('Home');
+      navigation.replace('Home');
     }, 3000);
   }, []);
 

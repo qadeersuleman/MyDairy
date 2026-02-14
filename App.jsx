@@ -1,24 +1,31 @@
-import React,{useState} from 'react';
-import { Text, View, StyleSheet, TouchableOpacity } from 'react-native';
+// App.js
+import 'react-native-gesture-handler';
+import React from 'react';
+import { NavigationContainer } from '@react-navigation/native';
+import { createNativeStackNavigator } from '@react-navigation/native-stack';
+
 import SplashScreen from './src/screens/Splash/SplashScreen';
+import HomeScreen from './src/screens/Home/HomeScreen';
+import AddTaskScreen from './src/screens/AddTask/AddTaskScreen';
+import TaskDetailScreen from './src/screens/TaskDetail/TaskDetailScreen';
+import PendingTasksScreen from './src/screens/PendingTasks/PendingTasksScreen';
+import CompletedTasksScreen from './src/screens/CompletedTasks/CompletedTasksScreen';
+import AllTasks from './src/screens/AllTasks/AllTasks';
+
+const Stack = createNativeStackNavigator();
 
 export default function App() {
-  const [count, setCount] = useState(5);
-
   return (
-    <SplashScreen />
+    <NavigationContainer>
+      <Stack.Navigator screenOptions={{ headerShown: false }}>
+        <Stack.Screen name="Splash" component={SplashScreen} />
+        <Stack.Screen name="Home" component={HomeScreen} />
+        <Stack.Screen name="AddTask" component={AddTaskScreen} />
+        <Stack.Screen name="TaskDetail" component={TaskDetailScreen} />
+        <Stack.Screen name="PendingTasks" component={PendingTasksScreen} />
+        <Stack.Screen name="CompletedTasks" component={CompletedTasksScreen} />
+        <Stack.Screen name="AllTasks" component={AllTasks} />
+      </Stack.Navigator>
+    </NavigationContainer>
   );
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-    backgroundColor: '#238bb7',
-  },
-  button: {
-    padding: 10,
-    backgroundColor: '#ffffff',
-  }
-});

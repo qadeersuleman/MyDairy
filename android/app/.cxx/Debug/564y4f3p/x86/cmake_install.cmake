@@ -44,10 +44,13 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
+  include("D:/React Native/MyDairy/android/app/.cxx/Debug/564y4f3p/x86/rnasyncstorage_autolinked_build/cmake_install.cmake")
+  include("D:/React Native/MyDairy/android/app/.cxx/Debug/564y4f3p/x86/RNDateTimePickerCGen_autolinked_build/cmake_install.cmake")
   include("D:/React Native/MyDairy/android/app/.cxx/Debug/564y4f3p/x86/lottiereactnative_autolinked_build/cmake_install.cmake")
   include("D:/React Native/MyDairy/android/app/.cxx/Debug/564y4f3p/x86/rngesturehandler_codegen_autolinked_build/cmake_install.cmake")
   include("D:/React Native/MyDairy/android/app/.cxx/Debug/564y4f3p/x86/rnreanimated_autolinked_build/cmake_install.cmake")
   include("D:/React Native/MyDairy/android/app/.cxx/Debug/564y4f3p/x86/safeareacontext_autolinked_build/cmake_install.cmake")
+  include("D:/React Native/MyDairy/android/app/.cxx/Debug/564y4f3p/x86/rnscreens_autolinked_build/cmake_install.cmake")
   include("D:/React Native/MyDairy/android/app/.cxx/Debug/564y4f3p/x86/RNVectorIconsSpec_autolinked_build/cmake_install.cmake")
   include("D:/React Native/MyDairy/android/app/.cxx/Debug/564y4f3p/x86/rnworklets_autolinked_build/cmake_install.cmake")
 
